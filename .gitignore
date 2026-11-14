@@ -1,0 +1,12 @@
+## Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+launchSettings.local.json
+.idea/
+.vscode/
+*.log
+appsettings.Development.json
